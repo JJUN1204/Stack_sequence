@@ -1,4 +1,5 @@
 # Stack_sequence
+#알고리즘화
 package stack;
 
 import java.util.Scanner; 
